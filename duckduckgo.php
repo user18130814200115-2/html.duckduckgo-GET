@@ -13,7 +13,9 @@ $lines_string=preg_replace($pattern, 'method=get', preg_replace($pattern2, '', $
 
 # remove duckduckgo proxy
 $lines_string=preg_replace('/"\/\/.*uddg=(.*).rut.*?"/i', "$1", "$lines_string");
-$lines_string=str_replace('%2F&', '', "$lines_string");   
+$lines_string=urldecode($lines_string);
+$lines_string=str_replace('/&', '/', "$lines_string");
+$lines_string=str_replace('/amp', '/', "$lines_string");
 
 # echo result
 echo urldecode($lines_string);
