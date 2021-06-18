@@ -14,3 +14,9 @@ Requests are still made to duckduckgo's servers.
 2. Install and enable php for your server
 3. put duckduckgo.php in the proper path (often /var/www/html/ on debian and /srv/http/ on arch)
 4. navigate to duckduckgo.php in your browser (for instance, when hosting locally "localhost/duckduckgo.php")
+
+### Try it out first
+You can try my hosted version [here](https://twester.tk/duckduckgo.php).
+
+Bandwidth id not cheap though.
+So if you want, feel free to [donate](https://twester.tk/ssg/donations.html) to the upkeep of the website.
