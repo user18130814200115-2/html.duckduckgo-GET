@@ -14,7 +14,8 @@ $lines_string=preg_replace($pattern, 'method=get', preg_replace($pattern2, '', $
 # Function to remove last character form regex below
 # For some reason, the regula expression always appends a "&" this is the only way I found to cleanly get rid of it
 function callback($matches) {
-        return mb_substr($matches[1], 0, -1);
+        $href=$matches[1];
+        return substr_replace($href, "", -4);
 }
 # Regex to remove duckduckgo proxy
 $lines_string=preg_replace_callback('/"\/\/.*uddg=(.*).rut.*?"/i', "callback", "$lines_string");
