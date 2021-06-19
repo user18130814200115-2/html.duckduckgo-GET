@@ -1,5 +1,3 @@
-# BROKEN. DO NOT USE YET
-
 # html.duckduckgo-GET
 Use the GET protocol instead of POST with html.duckduckgo.com/html. Useful for for storing search history urls.
 
@@ -18,7 +16,7 @@ Requests are still made to duckduckgo's servers.
 4. navigate to duckduckgo.php in your browser (for instance, when hosting locally "localhost/duckduckgo.php")
 
 ### Try it out first
-You can try my hosted version [here](https://twester.tk/duckduckgo.php).
+You can try my hosted version [here](https://twester.tk/html/).
 
 Bandwidth id not cheap though.
 So if you want, feel free to [donate](https://twester.tk/ssg/donations.html) to the upkeep of the website.
