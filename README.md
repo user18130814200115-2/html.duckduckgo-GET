@@ -18,5 +18,5 @@ Requests are still made to duckduckgo's servers.
 ### Try it out first
 You can try my hosted version [here](https://twester.tk/html/).
 
-Bandwidth id not cheap though.
-So if you want, feel free to [donate](https://twester.tk/ssg/donations.html) to the upkeep of the website.
+Bandwidth is not cheap though,
+so if you want, feel free to [donate](https://twester.tk/ssg/donations.html) to the upkeep of the website.
