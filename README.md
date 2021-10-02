@@ -16,7 +16,7 @@ Requests are still made to duckduckgo's servers.
 4. navigate to duckduckgo.php in your browser (for instance, when hosting locally "localhost/duckduckgo.php")
 
 ### Try it out first
-You can try my hosted version [here](https://twester.tk/html/).
+You can try my hosted version [here](https://wester.digital/html/).
 
 Bandwidth is not cheap though,
-so if you want, feel free to [donate](https://twester.tk/ssg/donations.html) to the upkeep of the website.
+so if you want, feel free to [donate](https://wester.digital/ssg/donations.html) to the upkeep of the website.
