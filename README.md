@@ -17,6 +17,8 @@ Requests are still made to duckduckgo's servers.
 
 ### Try it out first
 You can try my hosted version [here](https://wester.digital/html/).
+THe version running there is `branding.php`
+which modifies the logo's and name.
 
 Bandwidth is not cheap though,
 so if you want, feel free to [donate](https://wester.digital/ssg/donations.html) to the upkeep of the website.
