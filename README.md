@@ -16,9 +16,7 @@ Requests are still made to duckduckgo's servers.
 4. navigate to duckduckgo.php in your browser (for instance, when hosting locally "localhost/duckduckgo.php")
 
 ### Try it out first
-You can try my hosted version [here](https://wester.digital/html/).
-THe version running there is `branding.php`
-which modifies the logo's and name.
+You can try my hosted version [here](https://search.wester.digital/).
 
 Bandwidth is not cheap though,
-so if you want, feel free to [donate](https://wester.digital/ssg/donations.html) to the upkeep of the website.
+so cosider either self-hosting or [donating](https://blog.wester.digital/donations).
