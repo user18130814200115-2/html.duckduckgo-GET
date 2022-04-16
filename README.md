@@ -1,5 +1,5 @@
 # html.duckduckgo-GET
-Use the GET protocol instead of POST with html.duckduckgo.com/html. Useful for for storing search history urls.
+Use the GET protocol instead of POST with [html.duckduckgo.com/html](html.duckduckgo.com/html). Useful for for storing search history urls.
 
 ## What it does
 1. Change the submit method from POST to GET
