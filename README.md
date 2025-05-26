@@ -17,9 +17,3 @@ Requests are still made to duckduckgo's servers.
 2. Install and enable php for your server
 3. Rename duckduckgo.php (or branding.php if you prefer) to index.php and put it in the proper path (often /var/www/html/ on debian and /srv/http/ on arch)
 4. index.php has to be in a folder named `/html/`. Thus if your root folder is `/var/www/`, duckduckgo.php needs to be in `/var/www/html/`, the url will be `http://localhost/html/`
-
-### Try it out first
-You can try my hosted version [here](https://search.wester.digital/).
-
-Bandwidth is not cheap though,
-so cosider either self-hosting or [donating](https://blog.wester.digital/donations).
